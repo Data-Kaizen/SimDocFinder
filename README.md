@@ -30,11 +30,11 @@
 
 Для работы скрипта необходимы следующие библиотеки:
 
-- `pandas`
-- `nltk`
-- `pymorphy3`
-- `datasketch`
-- `tqdm`
+- `pandas` - лицензия [BSD 3](https://github.com/pandas-dev/pandas/blob/main/LICENSE)
+- `nltk` - лицензия [Apache License 2.0](https://github.com/nltk/nltk/blob/develop/LICENSE.txt)
+- `pymorphy3` - лицензия [MIT License](https://github.com/no-plagiarism/pymorphy3/blob/master/LICENSE.txt)
+- `datasketch` - лицензия [MIT License](https://github.com/ekzhu/datasketch/blob/master/LICENSE)
+- `tqdm` - лицензия [MPL 2.0](https://www.mozilla.org/en-US/MPL/2.0/)
 
 Установите зависимости с помощью `pip` и команды:
 
